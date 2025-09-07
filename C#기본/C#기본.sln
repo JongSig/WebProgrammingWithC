@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36414.22 d17.14
+VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "코드 2-01", "코드 2-01\코드 2-01.csproj", "{6E4A86B7-EA07-46B8-AD41-CFE7C26ED32E}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "코드 2-04", "코드 2-04\코드 2-04.csproj", "{EF53EAE7-062A-4546-8576-6F17EDF59079}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "코드 2-05", "코드 2-05\코드 2-05.csproj", "{A43A6A92-34F6-40CF-9C08-B164563F5B2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "코드 2-06", "코드 2-06\코드 2-06.csproj", "{B5F86975-76A1-430F-94B4-10975F204542}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{A43A6A92-34F6-40CF-9C08-B164563F5B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A43A6A92-34F6-40CF-9C08-B164563F5B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A43A6A92-34F6-40CF-9C08-B164563F5B2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5F86975-76A1-430F-94B4-10975F204542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5F86975-76A1-430F-94B4-10975F204542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5F86975-76A1-430F-94B4-10975F204542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5F86975-76A1-430F-94B4-10975F204542}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
