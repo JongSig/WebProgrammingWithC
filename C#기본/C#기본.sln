@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "코드 2-13", "코드 2-13\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "코드 2-14", "코드 2-14\코드 2-14.csproj", "{02A2C093-5208-409C-8B12-63FC0072A92E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "코드 2-15", "코드 2-15\코드 2-15.csproj", "{550D003C-8164-47F9-881E-C221850A1CB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{02A2C093-5208-409C-8B12-63FC0072A92E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02A2C093-5208-409C-8B12-63FC0072A92E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02A2C093-5208-409C-8B12-63FC0072A92E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{550D003C-8164-47F9-881E-C221850A1CB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{550D003C-8164-47F9-881E-C221850A1CB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{550D003C-8164-47F9-881E-C221850A1CB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{550D003C-8164-47F9-881E-C221850A1CB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
