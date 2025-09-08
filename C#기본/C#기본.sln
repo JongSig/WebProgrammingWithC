@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "코드 2-18", "코드 2-18\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "코드 2-19", "코드 2-19\코드 2-19.csproj", "{DBFB54DB-F335-42B0-BF50-7B3FCEC516F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "코드 2-20", "코드 2-20\코드 2-20.csproj", "{1B08663A-1B63-4FD2-80EC-4BB17EAD05F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{DBFB54DB-F335-42B0-BF50-7B3FCEC516F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBFB54DB-F335-42B0-BF50-7B3FCEC516F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBFB54DB-F335-42B0-BF50-7B3FCEC516F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B08663A-1B63-4FD2-80EC-4BB17EAD05F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B08663A-1B63-4FD2-80EC-4BB17EAD05F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B08663A-1B63-4FD2-80EC-4BB17EAD05F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B08663A-1B63-4FD2-80EC-4BB17EAD05F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
