@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "기본예제 6-04", "기본
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "기본예제 6-05", "기본예제 6-05\기본예제 6-05.csproj", "{766C07EF-1E31-4684-BD0A-87CCFE104685}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "기본예제 6-06", "기본예제 6-06\기본예제 6-06.csproj", "{61183509-B03C-4619-8BEB-0ED3FD140896}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{766C07EF-1E31-4684-BD0A-87CCFE104685}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{766C07EF-1E31-4684-BD0A-87CCFE104685}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{766C07EF-1E31-4684-BD0A-87CCFE104685}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61183509-B03C-4619-8BEB-0ED3FD140896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61183509-B03C-4619-8BEB-0ED3FD140896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61183509-B03C-4619-8BEB-0ED3FD140896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61183509-B03C-4619-8BEB-0ED3FD140896}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
