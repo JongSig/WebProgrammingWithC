@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "코드 6-03", "코드 6-03\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "기본예제 6-02", "기본예제 6-02\기본예제 6-02.csproj", "{7FB3440B-577B-4C99-8CD6-C460DA5A75A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "기본예제 6-03", "기본예제 6-03\기본예제 6-03.csproj", "{641D83A3-8890-4467-A60F-9D9A00E14125}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "실습1", "실습1\실습1.csproj", "{EB8DDE17-0420-44B8-943F-600E89354902}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{7FB3440B-577B-4C99-8CD6-C460DA5A75A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7FB3440B-577B-4C99-8CD6-C460DA5A75A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7FB3440B-577B-4C99-8CD6-C460DA5A75A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{641D83A3-8890-4467-A60F-9D9A00E14125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{641D83A3-8890-4467-A60F-9D9A00E14125}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{641D83A3-8890-4467-A60F-9D9A00E14125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{641D83A3-8890-4467-A60F-9D9A00E14125}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB8DDE17-0420-44B8-943F-600E89354902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB8DDE17-0420-44B8-943F-600E89354902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB8DDE17-0420-44B8-943F-600E89354902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB8DDE17-0420-44B8-943F-600E89354902}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
