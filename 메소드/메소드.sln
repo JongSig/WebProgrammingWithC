@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "실습2", "실습2\실습2.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "실습3", "실습3\실습3.csproj", "{427B9006-1582-4374-BF09-78D3C5FC8245}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "기본예제 6-07", "기본예제 6-07\기본예제 6-07.csproj", "{3675BA55-9A6F-4B52-BDC4-312ED36CA5B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{427B9006-1582-4374-BF09-78D3C5FC8245}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{427B9006-1582-4374-BF09-78D3C5FC8245}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{427B9006-1582-4374-BF09-78D3C5FC8245}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3675BA55-9A6F-4B52-BDC4-312ED36CA5B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3675BA55-9A6F-4B52-BDC4-312ED36CA5B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3675BA55-9A6F-4B52-BDC4-312ED36CA5B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3675BA55-9A6F-4B52-BDC4-312ED36CA5B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
